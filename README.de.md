@@ -1,12 +1,12 @@
 recharts
 
-# Neucharts
+# Recharts
 
 > Slugline
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Dokumentation](./DOCUMENTATION.md)
 
 **Zusammenfassung**
 
@@ -16,9 +16,9 @@ Text
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 – Anforderungen
 
-See [README.md](./200/README.md)
+Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
