@@ -2,7 +2,7 @@ recharts
 
 # Neucharts
 
-> A composable charting library built on React components.
+> Eine zusammensetzbare Diagrammbibliothek, die auf React-Komponenten basiert.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)

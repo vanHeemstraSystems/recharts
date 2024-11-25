@@ -1,6 +1,6 @@
 recargas
 
-# Informes
+# Recharts
 
 > Una biblioteca de gráficos componible construida sobre componentes de React.
 
