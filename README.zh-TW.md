@@ -1,8 +1,8 @@
-recharts
+重新繪製圖表
 
 # 重新圖表
 
-> Slugline
+> 斯拉格萊恩
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -16,7 +16,7 @@ recharts
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
@@ -26,4 +26,4 @@ recharts
 
 ## 400 - 結論
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
