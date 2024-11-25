@@ -1,8 +1,8 @@
-儲存庫名稱
+recharts
 
-# 儲存庫名稱
+# 重新圖表
 
-> 斯拉格萊恩
+> Slugline
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -26,4 +26,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
