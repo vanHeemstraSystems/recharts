@@ -2,25 +2,25 @@ opnieuw in kaart brengen
 
 # Opnieuw in kaart brengen
 
-> Een samen te stellen grafiekbibliotheek gebouwd op React-componenten.
+> A composable charting library built on React components.
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
-**Samenvatting**
+**Executive Summary**
 
-Tekst
+Text
 
 ## 100 - Inleiding
 
-Zien[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Vereisten
 
 Zien[README.md](./200/README.md)
 
-## 300 - Onze applicatie bouwen
+## 300 - Building Our Application
 
 Zien[README.md](./300/README.md)
 
