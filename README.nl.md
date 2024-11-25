@@ -2,7 +2,7 @@ repositorynaam
 
 # Naam van opslagplaats
 
-> Slaklijn
+> Slugline
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
@@ -10,7 +10,7 @@ repositorynaam
 
 **Samenvatting**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
