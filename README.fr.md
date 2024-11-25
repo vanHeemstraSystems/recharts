@@ -22,8 +22,8 @@ Courez avec :
 
 Vous pouvez maintenant afficher l'application recharts dans le navigateur.
 
-  Local:            http&#x3A;//localhost:3000
-  On Your Network:  <http://10.0.5.2:3000>
+Local : http&#x3A;//localhost:3000
+  Sur votre réseau :<http://10.0.5.2:3000>
 
 ## 100 - Introduction
 
