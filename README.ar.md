@@ -1,4 +1,4 @@
-recharts
+يعيد التخطيط
 
 # إعادة التخطيط
 
@@ -10,7 +10,20 @@ recharts
 
 **ملخص تنفيذي**
 
-نص
+ثَبَّتَ:
+
+    $ cd recharts-app
+    $ npm install
+
+تشغيل مع:
+
+    $ cd recharts-app
+    $ npm start
+
+يمكنك الآن عرض تطبيق recharts في المتصفح.
+
+محلي: http&#x3A;//localhost:3000
+  على شبكتك:<http://10.0.5.2:3000>
 
 ## 100- مقدمة
 
@@ -24,6 +37,6 @@ recharts
 
 يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
