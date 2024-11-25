@@ -1,21 +1,21 @@
 重新繪製圖表
 
-# 重新圖表
+# Recharts
 
-> A composable charting library built on React components.
+> 基於 React 元件建構的可組合圖表庫。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
--   [文件](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **執行摘要**
 
-安裝：
+Install:
 
     $ cd recharts-app
     $ npm install
 
-Run with:
+運行：
 
     $ cd recharts-app
     $ npm start
@@ -25,7 +25,7 @@ Run with:
 本地：http&#x3A;//localhost:3000
   在您的網路上：<http://10.0.5.2:3000>
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
@@ -35,7 +35,7 @@ Run with:
 
 ## 300 - 建立我們的應用程式
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 結論
 
