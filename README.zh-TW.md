@@ -2,7 +2,7 @@
 
 # 重新圖表
 
-> A composable charting library built on React components.
+> 基於 React 元件建構的可組合圖表庫。
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -10,11 +10,11 @@
 
 **執行摘要**
 
-文字
+Text
 
 ## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
