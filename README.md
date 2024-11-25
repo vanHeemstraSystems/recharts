@@ -9,7 +9,24 @@ recharts
 
 **Executive Summary**
 
-Text
+Install:
+
+```
+$ cd recharts-app
+$ npm install
+```
+
+Run with:
+
+```
+$ cd recharts-app
+$ npm start
+```
+
+You can now view recharts-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.0.5.2:3000
 
 ## 100 - Introduction
 
