@@ -2,7 +2,7 @@ recargas
 
 # Informes
 
-> línea de bala
+> Una biblioteca de gráficos componible construida sobre componentes de React.
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
