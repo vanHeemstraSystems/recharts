@@ -2,7 +2,7 @@ recharts
 
 # Recharts
 
-> Une bibliothèque de graphiques composables construite sur des composants React.
+> A composable charting library built on React components.
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
