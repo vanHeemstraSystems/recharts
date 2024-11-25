@@ -2,7 +2,7 @@
 
 # 重新图表
 
-> 斯拉格莱恩
+> 基于 React 组件构建的可组合图表库。
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
