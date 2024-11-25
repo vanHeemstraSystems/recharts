@@ -4,7 +4,7 @@ recharts
 
 > Eine zusammensetzbare Diagrammbibliothek, die auf React-Komponenten basiert.
 
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 -   [Dokumentation](./DOCUMENTATION.md)
 
