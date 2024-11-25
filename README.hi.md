@@ -4,9 +4,9 @@
 
 > रिएक्ट घटकों पर निर्मित एक कंपोज़ेबल चार्टिंग लाइब्रेरी।
 
--   [Glossary](./GLOSSARY.md)
+-   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [प्रलेखन](./DOCUMENTATION.md)
 
 **कार्यकारी सारांश**
 
@@ -15,17 +15,17 @@
     $ cd recharts-app
     $ npm install
 
-Run with:
+साथ चलाएं:
 
     $ cd recharts-app
     $ npm start
 
-अब आप ब्राउज़र में रिचार्ज-ऐप देख सकते हैं।
+You can now view recharts-app in the browser.
 
 स्थानीय: http&#x3A;//localhost:3000
   आपके नेटवर्क पर:<http://10.0.5.2:3000>
 
-## 100 - Introduction
+## 100 - परिचय
 
 देखना[README.md](./100/README.md)
 
@@ -39,4 +39,4 @@ Run with:
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
