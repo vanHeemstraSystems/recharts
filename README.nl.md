@@ -1,8 +1,8 @@
-repositorynaam
+opnieuw in kaart brengen
 
-# Naam van opslagplaats
+# Opnieuw in kaart brengen
 
-> Slugline
+> Slaklijn
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
