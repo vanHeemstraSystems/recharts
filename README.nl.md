@@ -1,6 +1,6 @@
-opnieuw in kaart brengen
+recharts
 
-# Opnieuw in kaart brengen
+# Recharts
 
 > Een samen te stellen grafiekbibliotheek gebouwd op React-componenten.
 
@@ -39,4 +39,4 @@ Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
-Zien[README.md](./400/README.md)
+See [README.md](./400/README.md)
