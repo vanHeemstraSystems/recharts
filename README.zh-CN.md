@@ -2,7 +2,7 @@
 
 # 重新图表
 
-> A composable charting library built on React components.
+> 一个基于 React 组件构建的可组合图表库。
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -10,13 +10,26 @@
 
 **执行摘要**
 
-文本
+安装：
 
-## 100 - 简介
+    $ cd recharts-app
+    $ npm install
+
+运行：
+
+    $ cd recharts-app
+    $ npm start
+
+You can now view recharts-app in the browser.
+
+本地：http&#x3A;//localhost:3000
+  在您的网络上：<http://10.0.5.2:3000>
+
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
