@@ -1,12 +1,12 @@
-存储库名称
+重新绘制图表
 
-# 存储库名称
+# 重新图表
 
 > 斯拉格莱恩
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
--   [文档](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **执行摘要**
 
@@ -14,7 +14,7 @@
 
 ## 100 - 简介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
