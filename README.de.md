@@ -1,8 +1,8 @@
 recharts
 
-# Recharts
+# Neucharts
 
-> Slugline
+> A composable charting library built on React components.
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
