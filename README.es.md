@@ -1,6 +1,6 @@
 recargas
 
-# Recharts
+# Informes
 
 > Una biblioteca de gráficos componible construida sobre componentes de React.
 
@@ -10,7 +10,20 @@ recargas
 
 **Resumen ejecutivo**
 
-Texto
+Install:
+
+    $ cd recharts-app
+    $ npm install
+
+Ejecutar con:
+
+    $ cd recharts-app
+    $ npm start
+
+Ahora puede ver la aplicación Recharts en el navegador.
+
+Local: http&#x3A;//localhost:3000
+  En su red:<http://10.0.5.2:3000>
 
 ## 100 - Introducción
 
