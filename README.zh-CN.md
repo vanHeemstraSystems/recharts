@@ -2,7 +2,7 @@
 
 # 重新图表
 
-> 基于 React 组件构建的可组合图表库。
+> A composable charting library built on React components.
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
