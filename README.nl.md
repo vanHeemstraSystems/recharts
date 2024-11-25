@@ -2,7 +2,7 @@ opnieuw in kaart brengen
 
 # Opnieuw in kaart brengen
 
-> Slaklijn
+> Een samen te stellen grafiekbibliotheek gebouwd op React-componenten.
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
